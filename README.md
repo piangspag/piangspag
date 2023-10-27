@@ -1,4 +1,9 @@
-<h1 align="left">Hey 👋 I'm Code Counter</h1>
+**Hi there, I'm Code Counter👋**
+
+**I'm a Web Developer, Accountancy Student, and bibliophile.**
+- :construction: I’m currently building some projects to boost my knowledge
+- :incoming_envelope: How to reach me imcodecounter@gmail.com
+- 🎲 Fun fact: i love spaghetti
 
 ###
 
@@ -6,7 +11,7 @@
 
 ###
 
-<p align="left"> :construction: I’m currently building some projects to boost my knowledge<br>:incoming_envelope: How to reach me imcodecounter@gmail.com<br>🎲 Fun fact: i love spaghetti</p>
+<p align="left"> <br><br></p>
 
 ###
 
