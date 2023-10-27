@@ -96,9 +96,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imcodecounter&icon=1&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/imcodecounter) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
