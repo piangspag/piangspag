@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I’m currently building some projects to boost my knowledge<br>📚 How to reach me imcodecounter@gmail.com<br>🎲 Fun fact: i love spaghetti</p>
+<p align="left"> :construction: I’m currently building some projects to boost my knowledge<br>:incoming_envelope: How to reach me imcodecounter@gmail.com<br>🎲 Fun fact: i love spaghetti</p>
 
 ###
 
@@ -63,7 +63,7 @@
   <a href="https://www.instagram.com/imcodecounter/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="33" alt="instagram logo"  />
   </a>
-  <a href="imcodecounter@gmail.com" target="_blank">
+  <a href="mailto:imcodecounter@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="33" alt="gmail logo"  />
   </a>
 </div>
