@@ -66,12 +66,6 @@
   <a href="imcodecounter@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="33" alt="gmail logo"  />
   </a>
-  <a href="furingjohnwilmar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="48" height="33" alt="paypal logo"  />
-  </a>
-  <a href="https://ko-fi.com/imcodecounter" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="48" height="33" alt="ko-fi logo"  />
-  </a>
 </div>
 
 ###
