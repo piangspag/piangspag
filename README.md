@@ -73,14 +73,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://ko-fi.com/imcodecounter" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  </a>
-  <a href="https://paypal.me/wilmarfuring?country.x=PH&locale.x=en_US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  </a>
-</div>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6QJLC5)
 
 ###
 
