@@ -9,12 +9,6 @@
 
 <p align="left">i make websites.</p>
 
-###
-
-<p align="left"> <br><br></p>
-
-###
-
 <h3 align="left">💻 Tech Stack</h3>
 
 ###
