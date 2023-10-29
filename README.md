@@ -1,4 +1,4 @@
-**Hi there, I'm Code Counter👋**
+**Hi there, I'm Wilmar - aka Code Counter👋**
 
 **I'm a Web Developer, Accountancy Student, and bibliophile.**
 - :construction: I’m currently building some projects to boost my knowledge
