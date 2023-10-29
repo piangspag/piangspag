@@ -74,11 +74,5 @@
 ###
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6QJLC5)
-
-###
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=imcodecounter&icon=1&color=1)](https://visitcount.itsvg.in)
